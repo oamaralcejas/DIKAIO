@@ -1,0 +1,19 @@
+
+DIKAIO is © 2023 University of Luxembourg and is distributed under the GPL v3 license (read GPLv3.0.txt for details)
+
+Authors:
+  - Orlando Amaral Cejas (orlando.amaralcejas@uni.lu)
+  - Sallam Abualhaija (sallam.abualhaija@uni.lu)
+  - Lionel Briand (lionel.briand@uni.lu)
+
+Paper:
+  - "ML-based Compliance Verification of Data Processing Agreements against GDPR", 31st IEEE International Requirements Engineering Conference, September 2023
+
+DIKAIO includes the following component:
+  - WEKA (Copyright © 2018 University of Waikato, New Zealand, licensed under the GPL v3 license; read GPLv3.0.txt for details)
+
+DIKAIO includes as separate elements the following benchmarking datasets that are freely available for research purposes (and not under the GPLv3):
+  - Uima (https://github.com/apache/uima-uimaj)
+  - DKPro. core,DKpro.core.stanfordnlp-gpl, DKpro.core.matetools-gpl, DKpro.core.stopwordremover-asl (from: https://github.com/dkpro/dkpro-core)
+  - apache.poi (https://github.com/apache/poi)
+  - extjwnl (https://github.com/extjwnl/extjwnl)
